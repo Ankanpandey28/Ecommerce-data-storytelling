@@ -32,7 +32,7 @@ All charts are in [`visuals/`](visuals/).
 ├── visuals/
 │   └── *.png            # 6 final charts
 └── report/
-    └── DataStorytelling_Week2(1)2.pdf   # full written report
+    └── DataStorytelling_Week2 (1) 2.pdf  # full written report
 ```
 
 ## ▶️ How to Run
@@ -46,7 +46,7 @@ python scripts/make_viz.py    # writes visuals/*.png
 
 ## 📄 Full Report
 
-The complete write-up — including methodology, chart-by-chart analysis, and business implications — is available in [`report/DataStorytelling_Week2(1)2.pdf`](report/DataStorytelling_Week2(1)2.pdf).
+The complete write-up — including methodology, chart-by-chart analysis, and business implications — is available in [`report/DataStorytelling_Week2 (1) 2.pdf`](DataStorytelling_Week2 (1) 2.pdf).
 
 ## 📝 Data Note
 
